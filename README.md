@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @YuanYi11
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python and java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in front-end development and web3 development
+- 📫 Feel free to reach out to me via email: yuanyi.c20@gmail.com
 
 <!---
 YuanYi11/YuanYi11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
